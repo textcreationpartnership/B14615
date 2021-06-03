@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the conferences and proceedings concerning the peace and mutuall agreements betweene the King of France, and Prince of Conde Published to the glorie of God, and the satisfaction of our common-wealth, this ninth of Iune. 1616.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14615</idno><idno type="EEBO-CITATION">99839696</idno>
+  <idno type="VID">177136</idno>
+  <idno type="EEBO-PROQUEST">2264174181</idno>
+  <idno type="STC">STC 16833</idno>
+  <idno type="STC">ESTC S103954</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839696e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177136)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 845:09, 845:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the conferences and proceedings concerning the peace and mutuall agreements betweene the King of France, and Prince of Conde Published to the glorie of God, and the satisfaction of our common-wealth, this ninth of Iune. 1616.</title>
+               </titleStmt>
+               <extent>[4], 12, [2], 19 [i.e. 21], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edvvard Griffin for Nathaniel Butter, and are to bee solde at his shop in Pauls Church-yard, at the signe of the Pyde-Bull, neere St. Austins gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1616.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes "The publication of the peace according to the good pleasure of the King, and my Lord the Prince of Conde, first Prince of the blood, and peere of France", which has separate title page, pagination, and register.</note>
+                  <note>"The publication of the peace" was formerly STC 16832, and is identified as such on UMI microfilm.</note>
+                  <note>Page numbers 13-14 (2nd sequence) are repeated in page numbering.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Condé, Henri II de Bourbon, --  prince de --  Early works to 1800.</term>
+               <term type="geographic_name">France --  History --  Louis XIII, 1610-1643 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177136:1"/>
+            <p>A TRVE RELATION OF THE CONFEREN<g ref="char:EOLhyphen"/>CES AND PROCEEDINGS CON<g ref="char:EOLhyphen"/>cerning the peace and mutuall agreements betweene the King of France, and Prince of Conde.</p>
+            <p>PVBLISHED TO THE Glorie of GOD, and the satisfaction of our Common-wealth, this ninth ofIVNE. 1616.</p>
+            <figure>
+               <figDesc>Woodcut printer's device (not in McKerrow).</figDesc>
+            </figure>
+            <p>LONDON, Printed by EDVVARD GRIFFIN for Nathaniel Butter, and are to bee solde at his shop in Pauls Church<g ref="char:EOLhyphen"/>yard, at the signe of the Pyde-Bull, neere S<seg rend="sup">t</seg>. Austins gate. 1616.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:177136:2"/>
+            <pb facs="tcp:177136:2"/>
+            <p>ARTICLES FOR THE CESSA<g ref="char:EOLhyphen"/>TION AND SVSPEN<g ref="char:EOLhyphen"/>sion of Armes, agreed vpon betweene the Deputies for the King, and my Lord the Prince. And afterward confirmed by his Maiestie.</p>
+            <p>AT THE COVNTIE OF FONTENAY, In the house of Peter Little-Iohn, Prin<g ref="char:EOLhyphen"/>ter and Stationer. 1616.</p>
+            <figure>
+               <figDesc>Woodcut printer's device (not in McKerrow).</figDesc>
+            </figure>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>By Commandement from the foresaid Lord the Prince.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:177136:3"/>
+            <pb n="1" facs="tcp:177136:3"/>
+            <head>ARTICLES <hi>AGREED VPON ACCORDING to the good pleasure of the King, betweene my Lord of</hi> Brisac <hi>Marshall of</hi> France, <hi>and</hi> De Villeroy <hi>Counceller and Secretarie of Estate, delegated as Deputies in the behalfe of his Maiestie on the one side, and my Lord the Prince of</hi> Conde, <hi>first Prince of the blood on the other side: for a conference and agree<g ref="char:EOLhyphen"/>ment for the sedation and pacification of the troubles of the whole Realme and King<g ref="char:EOLhyphen"/>dome.</hi>
+            </head>
+            <div n="1" type="article">
+               <head>First:</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE King is well pleased to admit and entertaine the sayd conference with my Lord the Prince, &amp; other Princes, Dukes, Peeres, Officers of the Crowne, Barons, and all others, as well Catholiques, as of the Re<g ref="char:EOLhyphen"/>ligion
+<pb n="2" facs="tcp:177136:4"/> pretended Reformed, which haue beene assisting vnto, and are ioyntly vni<g ref="char:EOLhyphen"/>ted with him: comprehending all the De<g ref="char:EOLhyphen"/>puties of the sayd Religion assembled at <hi>Nismes.</hi>
+               </p>
+            </div>
+            <div n="2" type="article">
+               <head>2</head>
+               <p>The said conference shall bee in the towne of <hi>Loudun,</hi> between certaine Com<g ref="char:EOLhyphen"/>missioners deputed by his Maiesty, for the debating of matters with my Lord the Prince, &amp; the other Lords afore-named, to begin the tenth of <hi>February</hi> following, or next ensuing.</p>
+            </div>
+            <div n="3" type="article">
+               <head>3</head>
+               <p>And to the end that nothing shall trouble or interrupt so good a worke, it is purposely contriued and deuised accor<g ref="char:EOLhyphen"/>ding to the good pleasure of his Maiesty, that there shall bee a cessation of armes and all actions military through the whole Realme, and other countries vn<g ref="char:EOLhyphen"/>der his Maiesties obeisance, as also within the soueraignties of <hi>Sedan</hi> and <hi>Raucourt:</hi>
+                  <pb n="3" facs="tcp:177136:4"/> to beginne for the behalfe and regard of the prouinces of <hi>Poictiers, Xantogne, Augoume, Bretaigne, Touraine, Anjou</hi> and <hi>Berry</hi> on the same day, that these present articles shall bee ratified by his Maiesty, whose will and pleasure to the same pur<g ref="char:EOLhyphen"/>pose, the foresaid Prince, shall explaine and discouer within or before the thirtieth day of this present month: And in respect of the other prouinces remooued, and farther separated, the said suspension of armes shall beginne as soone, or the selfe same day, that this is published within the sayd Prouinces by the Gouernours and Lieutenant-Generals of the same, to end and determime for all together, the first of <hi>March</hi> next ensuing, all which the said <hi>Lord Prince</hi> shall aduertise the same time to all such as haue any autho<g ref="char:EOLhyphen"/>rity or commandement within the places and limitation acknowledging his soue<g ref="char:EOLhyphen"/>raignty, and vnited to his obedience.</p>
+            </div>
+            <div n="4" type="article">
+               <head>4</head>
+               <p>And to bring to passe, that the sayd
+<pb n="4" facs="tcp:177136:5"/> suspension of armes bee speedily put in practise, and executed through all the foresaid prouinces of the Realme, his Ma<g ref="char:EOLhyphen"/>iesty shall be humbly sued vnto and sup<g ref="char:EOLhyphen"/>plicated, that all diligence and expedition bee vsed for the expedite and necessarie publishing his commandements: and if it happen, that any person or persons, in giuing attendance on the sayd publicati<g ref="char:EOLhyphen"/>on, shall be arrested as prisoners, after the sayd thirtieth day of the present month, it shall be published and reputed no good prize, and he or they shall bee presently released and discharged at the first moti<g ref="char:EOLhyphen"/>on and demand, made both of the one side and the other.</p>
+            </div>
+            <div n="5" type="article">
+               <head>5</head>
+               <p>During the said suspension of armes neither of one side nor other, shall there be made or raised any bullwarkes, tren<g ref="char:EOLhyphen"/>ches or fortifications within the townes or other places taken and surprized, since the first of <hi>September</hi> last, nor any raising or leuie of souldiers, or men of armes
+<pb n="5" facs="tcp:177136:5"/> within the Realme and countries subiect to his Maiesties obedience.</p>
+            </div>
+            <div n="6" type="article">
+               <head>6</head>
+               <p>And to preuent, lest the approch and proximity of the armies bring with it any alteration or disturbance to these procee<g ref="char:EOLhyphen"/>dings, it is agreed vnto, according to the will &amp; good pleasure of his Maiestie, that none of his Maiesties troops be resident or passe ouer on this side the riuer of <hi>Clain:</hi> al so that during the said conference his Ma<g ref="char:EOLhyphen"/>iesties forces retire beyond the riuer of <hi>Vi<g ref="char:EOLhyphen"/>enne,</hi> not approaching or comming neere the foresaid towne of <hi>Loudun</hi> by eight leagues: But whereas the garisons which may seeme necessarie for the search and security of all places remaining on this side the sayd riuers of <hi>Vienne</hi> and <hi>Claine,</hi> may yet raise a further suspicion and iea<g ref="char:EOLhyphen"/>lousie: By order and commission appoin<g ref="char:EOLhyphen"/>ted from my Lord the said Prince, or such to whom he shall put in trust for these af<g ref="char:EOLhyphen"/>faires, the number of men shall bee ap<g ref="char:EOLhyphen"/>pointed and reuiewed, which shal be ad<g ref="char:EOLhyphen"/>mitted
+<pb n="6" facs="tcp:177136:6"/> into the same places, and for the same purpose.</p>
+            </div>
+            <div n="7" type="article">
+               <head>7</head>
+               <p>In like manner none of the troopes of armes of my sayd Lord the Prince shall come neere or approach to the towne of <hi>Poictiers</hi> during the sayd suspension and conference, by the space of sixe leagues, nor lodge beyond the riuer of <hi>Tou,</hi> nor in the prouinces of <hi>Anjou</hi> and <hi>Bretaigne</hi> be<g ref="char:EOLhyphen"/>yond the sayd riuer of <hi>Tou:</hi> and concer<g ref="char:EOLhyphen"/>ning the garrisons, which may seeme ne<g ref="char:EOLhyphen"/>cessary and conuenient for security, and maintaining the places belonging to my said Lord the Prince, the which may also affoord matter of iealousie and suspicion: there shall bee the same order appointed for the ouerseeing them by his Maiestie, or such to whom hee shall commit the the trust of such affaires.</p>
+            </div>
+            <div n="8" type="article">
+               <head>8</head>
+               <p>And for the behalfe of the Prouince of <hi>Xantoigne</hi> none of the troopes shall lodge
+<pb n="7" facs="tcp:177136:6"/> within <hi>Tailbourg,</hi> nor aduance aboue the riuer of <hi>Charante.</hi>
+               </p>
+            </div>
+            <div n="9" type="article">
+               <head>9</head>
+               <p>Touching the other Prouinces his Maiestie and our sayd Lord the Prince, haue deputed and ordained, that euerie one shall rule and command the troopes therein to liue modestly, and conforma<g ref="char:EOLhyphen"/>ble to good orders.</p>
+            </div>
+            <div n="10" type="article">
+               <head>10</head>
+               <p>My sayd Lord the Prince during the conference, and for the security and pa<g ref="char:EOLhyphen"/>tronizing the businesse, may lodge 100. men of armes in the towne of the Ile of <hi>Bourchard,</hi> and about 800. men within the precincts of <hi>Loudun,</hi> as also 400. horse about the said town of <hi>Loudun</hi> in such pla<g ref="char:EOLunhyphen"/>ces and quarters, which shall be after na<g ref="char:EOLhyphen"/>med, &amp; thought conuenient by his Ma<g ref="char:EOLhyphen"/>iestie, or such, whom it shall please him to delegate and appoint.</p>
+            </div>
+            <div n="11" type="article">
+               <pb n="8" facs="tcp:177136:7"/>
+               <head>11</head>
+               <p>The troopes of the sayd armies, who are to retire by the commandement or li<g ref="char:EOLhyphen"/>censes of the said Gouernours, and seeme willing to obey the pleasure of the sayd Lords, Princes, Dukes, Peeres, Officers of the Crowne, and Lieutenants of the King, may performe the same, and passe with all security and assurance, aduerti<g ref="char:EOLhyphen"/>sing the Gouernours of the townes and places, by which they must passe, or o<g ref="char:EOLhyphen"/>thers to whom they are to be obedient, of their licenses and patents to depart ac<g ref="char:EOLhyphen"/>cordingly: wherein notwithstanding they shall not troope aboue 20. and 20. at a time.</p>
+               <p>These articles were decreed vpon and determined in the presence, and by the consent and aduice of my Lord the Duke of <hi>Neuers,</hi> in the towne of <hi>Fountenay</hi> the county, the 20. of <hi>Ianuary,</hi> 1616.</p>
+               <p>Signed <hi>Brisac, De Neufville, Henry</hi> of <hi>Bourbon,</hi> and <hi>Charles De Gonzague de Cleues,</hi> as present.</p>
+               <pb n="9" facs="tcp:177136:7"/>
+               <p>
+                  <hi>These articles were published and exemplified in the presence of the King, accompanied with the Queene his Mother, the Lords the Dukes of Guise and Elbeuf, my Lord the Chancellor, my Lord the Duke Espernon, the Lords Marshals of Boisdaupbin and Souure, the Lord President Ia<g ref="char:EOLhyphen"/>nin, and diuers other Lords and Princes of his Councell; which articles his Maiestie hath ratifi<g ref="char:EOLhyphen"/>ed, approoued and agreed vnto, willing and com<g ref="char:EOLhyphen"/>manding, that they bee kept and obserued from point to point, according to their forme and te<g ref="char:EOLhyphen"/>nour, and that all letters and dispatches for the necessary &amp; expedient execution of the premises, be presently signed and sent forth. Concluded &amp; determined the</hi> 23. <hi>of Ianuarie</hi> 1616. <hi>at Cha<g ref="char:EOLhyphen"/>stellerault.</hi>
+               </p>
+               <closer>
+                  <signed>Signed LEVVIS &amp; MARY. And beneath PHELYPEAVX.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="section">
+            <pb n="10" facs="tcp:177136:8"/>
+            <head>By the Kings appointment and <hi>authoritie, and my Lord the Prince</hi> of Conde, first Prince of the <hi>Blood, and Peere of</hi> FRANCE.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lord the Prince of Conde ha<g ref="char:EOLhyphen"/>uing alwayes desired to make manifest and apparant his singu<g ref="char:EOLhyphen"/>lar loue and affection, which he hath euer borne toward the establishing and con<g ref="char:EOLhyphen"/>firming this Estate: and well pleased to hold the conference according to the fol<g ref="char:EOLhyphen"/>lowing articles agreed vpon by the <hi>Lord</hi> of <hi>Brisac</hi> Marshall of <hi>France,</hi> and <hi>De Ville<g ref="char:EOLhyphen"/>roy</hi> Counseller and Secretarie of Estate to his Maiestie, and his appointed Deputies for the same purpose, the 20. day of this present month of <hi>Ianuarie,</hi> and ratified by his Maiestie the 23. of the sayd month: doth ordaine and command according
+<pb n="11" facs="tcp:177136:8"/> to the said articles for the suspension of armes, and all actions <gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>btaties, that they bee ratified, confirmed and obserued through all the prouinces, townes and places of the Realme, lands and territories subiect to his Maiesty, and vnder his com<g ref="char:EOLhyphen"/>mand and iurisdiction, in the behalfe of his Maiestie: to beginne the day of the publication of these present ordinances, vntill the first day of <hi>March</hi> next ensuing: during which time there shall neither bee any attempt for the taking and surprizing of prisoners of warre, nor other practise of hostility of one side or other. To which end and purpose the said Lord the Prince doth will and command all Gouer<g ref="char:EOLhyphen"/>nours, and Lieutenant-Generals of his Maiesty ouer the said prouinces, townes and places, Bailiffes, Stewards, Marshals, Iudges, or their Deputies, Maiors, Sherifs, Consuls and Magistrates, Captaines in cheife, Commanders and Conducters of the men of armes, to whom it shall con<g ref="char:EOLhyphen"/>cerne and appertaine, to acknowledge his authority for the seruice, and in behalfe of
+<pb n="12" facs="tcp:177136:9"/> the King according to his owne obedi<g ref="char:EOLhyphen"/>ence to his Maiestie: and to make present publication of the same to see speedy exe<g ref="char:EOLhyphen"/>cution, and preuent and amend anie con<g ref="char:EOLhyphen"/>tradiction or transgression against the premises. Determined and concluded at <hi>Fountenay</hi> the Countie, the 13. of <hi>Ianu<g ref="char:EOLhyphen"/>arie,</hi> 1616.</p>
+            <p>Signed <hi>Henry</hi> of Bourbon, And beneath, By the Lord <hi>De la Grange.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
